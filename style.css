@@ -12,7 +12,6 @@ body {
   }
 
   #guess-input {
-    max-lenght: 5;
     display: block;
     margin: 0 auto 20px;
     padding: 10px;
